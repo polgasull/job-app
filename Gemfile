@@ -44,7 +44,7 @@ gem "omniauth-rails_csrf_protection"
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 5.6'
 gem 'pry', '~> 0.12.2'
-gem 'rails', '~> 7.0', '>= 7.0.2'
+gem 'rails', '~> 7.0'
 gem 'rubyzip', '~> 2.3', '>= 2.3.2'
 gem 'sass-rails', '~> 6.0'
 gem "simple_form", ">= 5.0.0"
